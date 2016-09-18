@@ -10,8 +10,27 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: 'Permanent Marker', cursive;
+  font-family: 'Montserrat', sans-serif;
+
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+h1 {
+  font-family: 'Permanent Marker', cursive;
+}
+
+img {
+  width: 100%;
+}
+
+.portrait {
+  border-radius: 250px;
+}
+
+.social {
+  width: 15%;
 }
